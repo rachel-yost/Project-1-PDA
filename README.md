@@ -10,7 +10,7 @@ Previous studies have found that environmental temperature decreases marathon pe
 
 `Project_1.pdf`: The final PDF file containing my report.
 
-### Dependecies
+### Dependencies
 The packages used for this analysis are as follows: 
 
 - Report Generation `knitr` 
